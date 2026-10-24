@@ -1,0 +1,1 @@
+export default [['powrót'],['Kliknij tutaj, aby przeczytać'],['zamknięcie'],['Wybierz swój język','język'],['Tutaj zrozum Chiny']]

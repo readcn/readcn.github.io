@@ -1,0 +1,1 @@
+export default [['zréck'],['Klickt hei fir ze liesen'],['Ofschloss'],['Wielt w.e.g. Är Sprooch','Sprooch'],['Hei, verstoen China']]

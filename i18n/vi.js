@@ -1,0 +1,1 @@
+export default [['trở lại'],['Bấm vào đây để đọc'],['đóng cửa'],['Vui lòng chọn ngôn ngữ của bạn','ngôn ngữ'],['Ở đây, hãy hiểu Trung Quốc']]

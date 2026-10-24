@@ -1,0 +1,1 @@
+export default [['skila'],['Smelltu hér til að lesa'],['lokun'],['Vinsamlegast veldu tungumálið þitt','tungumál'],['Hérna, skildu Kína']]

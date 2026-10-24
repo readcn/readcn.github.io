@@ -1,0 +1,1 @@
+export default [['grąžinti'],['Spauskite čia norėdami perskaityti'],['uždarymas'],['Pasirinkite savo kalbą','kalba'],['Štai suprask Kiniją']]

@@ -1,0 +1,1 @@
+export default [['pagbalik'],['I-klik dinhi aron mabasa'],['pagsira'],['Palihug pilia ang imong pinulongan','pinulongan'],['Dinhi, sabta ang China']]

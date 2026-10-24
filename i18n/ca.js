@@ -1,0 +1,1 @@
+export default [['tornar'],['Feu clic aquí per llegir'],['tancament'],['Seleccioneu el vostre idioma','llengua'],['Aquí, entengueu la Xina']]

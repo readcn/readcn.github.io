@@ -1,0 +1,1 @@
+export default [['reveni'],['Click aici pentru a citi'],['închidere'],['Vă rugăm să selectați limba dvs','limbă'],['Aici, înțelegeți China']]

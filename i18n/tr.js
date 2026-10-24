@@ -1,0 +1,1 @@
+export default [['geri dönmek'],['Okumak için buraya tıklayın'],['kapanış'],['Lütfen dilinizi seçin','dil'],["İşte Çin'i anlayın"]]

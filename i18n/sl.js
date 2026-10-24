@@ -1,0 +1,1 @@
+export default [['vrnitev'],['Kliknite tukaj za branje'],['zaprtje'],['Izberite svoj jezik','jezik'],['Evo, razumejte Kitajsko']]

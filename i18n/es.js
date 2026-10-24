@@ -1,0 +1,1 @@
+export default [['devolver'],['Haga clic aquí para leer'],['cierre'],['Por favor seleccione su idioma','idioma'],['Aquí, entiende China.']]

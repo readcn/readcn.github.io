@@ -1,0 +1,1 @@
+export default [['terugkeer'],['Klik hier om te lees'],['sluiting'],['Kies asseblief jou taal','taal'],['Hier, verstaan ​​China']]

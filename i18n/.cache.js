@@ -1,0 +1,1 @@
+export default [['back'],['readMore'],['close'],['choose','lang'],['title']]

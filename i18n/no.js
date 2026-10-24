@@ -1,0 +1,1 @@
+export default [['retur'],['Klikk her for å lese'],['stenging'],['Vennligst velg språket ditt','språk'],['Her, forstå Kina']]

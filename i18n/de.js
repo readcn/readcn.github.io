@@ -1,0 +1,1 @@
+export default [['zurückkehren'],['Klicken Sie hier, um zu lesen'],['Schließung'],['Bitte wählen Sie Ihre Sprache aus','Sprache'],['Hier verstehen Sie China']]

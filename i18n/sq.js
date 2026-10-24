@@ -1,0 +1,1 @@
+export default [['kthimi'],['Klikoni këtu për të lexuar'],['mbyllje'],['Ju lutemi zgjidhni gjuhën tuaj','gjuha'],['Këtu, kuptoni Kinën']]

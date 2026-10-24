@@ -1,0 +1,1 @@
+export default [['qayıtmaq'],['Oxumaq üçün bura klikləyin'],['bağlanması'],['Zəhmət olmasa dilinizi seçin','dil'],['Budur, Çini anlayın']]

@@ -1,0 +1,1 @@
+export default [['povratak'],['Kliknite ovdje za čitanje'],['zatvaranje'],['Odaberite svoj jezik','jezik'],['Evo, shvatite Kinu']]

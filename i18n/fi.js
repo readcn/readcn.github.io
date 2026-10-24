@@ -1,0 +1,1 @@
+export default [['palata'],['Napsauta tästä lukeaksesi'],['päättäminen'],['Valitse kieli','kieli'],['Tässä, ymmärrä Kiinaa']]

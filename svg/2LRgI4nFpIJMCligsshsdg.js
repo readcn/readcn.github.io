@@ -1,0 +1,1 @@
+import {css} from '../js/dom.js';css(":root{--2LRgI4nFpIJMCligsshsdg:url(\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='currentColor' viewBox='148 -125 1164 1273'%3E%3Cpath d='m686.182 988.545 479.988-477.42L686.182 33.522v281.094H293.164v393.018h393.018Z'/%3E%3C/svg%3E\")}");

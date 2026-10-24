@@ -1,0 +1,1 @@
+import {css} from '../js/dom.js';css(":root{--sgoOOaKyF_KnkUoRKxWczw:url(\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20' viewBox='0 0 24 24'%3E%3Cpath fill='%23fff' stroke='%23000' stroke-linejoin='round' stroke-width='2' d='M12 2 6 8h4v8H6l6 6 6-6h-4V8h4z'/%3E%3C/svg%3E\")}");

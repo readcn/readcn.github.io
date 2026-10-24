@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>在這裡，讀懂中國</title>
+    <link>https://readcn.github.io/</link>
+    <description>在這裡，讀懂中國</description>
+    <language>zh-TW</language>
+    <atom:link href="https://readcn.github.io/rss/zh-TW.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://readcn.github.io/rss/en.xml" rel="alternate" hreflang="en" title="English" type="application/rss+xml"/>
+    <atom:link href="https://readcn.github.io/rss/zh.xml" rel="alternate" hreflang="zh" title="中文" type="application/rss+xml"/>
+    <atom:link href="https://readcn.github.io/rss/de.xml" rel="alternate" hreflang="de" title="Deutsch" type="application/rss+xml"/>
+    <atom:link href="https://readcn.github.io/rss/hi.xml" rel="alternate" hreflang="hi" title="हिन्दी" type="application/rss+xml"/>
+    <atom:link href="https://readcn.github.io/rss/ja.xml" rel="alternate" hreflang="ja" title="日本語" type="application/rss+xml"/>
+    <atom:link href="https://readcn.github.io/rss/fr.xml" rel="alternate" hreflang="fr" title="Français" type="application/rss+xml"/>
+    <atom:link href="https://readcn.github.io/rss/it.xml" rel="alternate" hreflang="it" title="Italiano" type="application/rss+xml"/>
+    <atom:link href="https://readcn.github.io/rss/ru.xml" rel="alternate" hreflang="ru" title="Русский" type="application/rss+xml"/>
+    <atom:link href="https://readcn.github.io/rss/ko.xml" rel="alternate" hreflang="ko" title="한국어" type="application/rss+xml"/>
+    <atom:link href="https://readcn.github.io/rss/es.xml" rel="alternate" hreflang="es" title="Español" type="application/rss+xml"/>
+    <atom:link href="https://readcn.github.io/rss/id.xml" rel="alternate" hreflang="id" title="Indonesia" type="application/rss+xml"/>
+    <atom:link href="https://readcn.github.io/rss/tr.xml" rel="alternate" hreflang="tr" title="Türkçe" type="application/rss+xml"/>
+    <atom:link href="https://readcn.github.io/rss/ar.xml" rel="alternate" hreflang="ar" title="العربية" type="application/rss+xml"/>
+    <atom:link href="https://readcn.github.io/rss/nl.xml" rel="alternate" hreflang="nl" title="Nederlands" type="application/rss+xml"/>
+    <atom:link href="https://readcn.github.io/rss/pl.xml" rel="alternate" hreflang="pl" title="Polski" type="application/rss+xml"/>
+    <atom:link href="https://readcn.github.io/rss/zh-TW.xml" rel="alternate" hreflang="zh-TW" title="正體中文" type="application/rss+xml"/>
+    <atom:link href="https://readcn.github.io/rss/sv.xml" rel="alternate" hreflang="sv" title="Svenska" type="application/rss+xml"/>
+    <atom:link href="https://readcn.github.io/rss/no.xml" rel="alternate" hreflang="no" title="Norsk Bokmål" type="application/rss+xml"/>
+    <atom:link href="https://readcn.github.io/rss/th.xml" rel="alternate" hreflang="th" title="ไทย" type="application/rss+xml"/>
+    <atom:link href="https://readcn.github.io/rss/vi.xml" rel="alternate" hreflang="vi" title="Tiếng Việt" type="application/rss+xml"/>
+    <atom:link href="https://readcn.github.io/rss/ceb.xml" rel="alternate" hreflang="ceb" title="Binisaya" type="application/rss+xml"/>
+    <atom:link href="https://readcn.github.io/rss/bn.xml" rel="alternate" hreflang="bn" title="বাংলা" type="application/rss+xml"/>
+    <atom:link href="https://readcn.github.io/rss/fa.xml" rel="alternate" hreflang="fa" title="فارسی" type="application/rss+xml"/>
+    <atom:link href="https://readcn.github.io/rss/ms.xml" rel="alternate" hreflang="ms" title="Bahasa Melayu" type="application/rss+xml"/>
+    <atom:link href="https://readcn.github.io/rss/mr.xml" rel="alternate" hreflang="mr" title="मরাठी" type="application/rss+xml"/>
+    <atom:link href="https://readcn.github.io/rss/af.xml" rel="alternate" hreflang="af" title="Afrikaans" type="application/rss+xml"/>
+    <atom:link href="https://readcn.github.io/rss/da.xml" rel="alternate" hreflang="da" title="Dansk" type="application/rss+xml"/>
+    <atom:link href="https://readcn.github.io/rss/ro.xml" rel="alternate" hreflang="ro" title="Română" type="application/rss+xml"/>
+    <atom:link href="https://readcn.github.io/rss/ur.xml" rel="alternate" hreflang="ur" title="اردو" type="application/rss+xml"/>
+    <atom:link href="https://readcn.github.io/rss/cs.xml" rel="alternate" hreflang="cs" title="Čeština" type="application/rss+xml"/>
+    <atom:link href="https://readcn.github.io/rss/ta.xml" rel="alternate" hreflang="ta" title="தமிழ்" type="application/rss+xml"/>
+    <atom:link href="https://readcn.github.io/rss/fi.xml" rel="alternate" hreflang="fi" title="Suomi" type="application/rss+xml"/>
+    <atom:link href="https://readcn.github.io/rss/pt.xml" rel="alternate" hreflang="pt" title="Português" type="application/rss+xml"/>
+    <atom:link href="https://readcn.github.io/rss/kn.xml" rel="alternate" hreflang="kn" title="ಕನ್ನಡ" type="application/rss+xml"/>
+    <atom:link href="https://readcn.github.io/rss/ca.xml" rel="alternate" hreflang="ca" title="Català" type="application/rss+xml"/>
+    <atom:link href="https://readcn.github.io/rss/gu.xml" rel="alternate" hreflang="gu" title="ગુજરાતી" type="application/rss+xml"/>
+    <atom:link href="https://readcn.github.io/rss/kk.xml" rel="alternate" hreflang="kk" title="Қазақ Тілі" type="application/rss+xml"/>
+    <atom:link href="https://readcn.github.io/rss/el.xml" rel="alternate" hreflang="el" title="Ελληνικά" type="application/rss+xml"/>
+    <atom:link href="https://readcn.github.io/rss/hu.xml" rel="alternate" hreflang="hu" title="Magyar" type="application/rss+xml"/>
+    <atom:link href="https://readcn.github.io/rss/uk.xml" rel="alternate" hreflang="uk" title="Українська" type="application/rss+xml"/>
+    <atom:link href="https://readcn.github.io/rss/te.xml" rel="alternate" hreflang="te" title="తెలుగు" type="application/rss+xml"/>
+    <atom:link href="https://readcn.github.io/rss/sk.xml" rel="alternate" hreflang="sk" title="Slovenčina" type="application/rss+xml"/>
+    <atom:link href="https://readcn.github.io/rss/sw.xml" rel="alternate" hreflang="sw" title="Kiswahili" type="application/rss+xml"/>
+    <atom:link href="https://readcn.github.io/rss/bg.xml" rel="alternate" hreflang="bg" title="Български" type="application/rss+xml"/>
+    <atom:link href="https://readcn.github.io/rss/cy.xml" rel="alternate" hreflang="cy" title="Cymraeg" type="application/rss+xml"/>
+    <atom:link href="https://readcn.github.io/rss/eu.xml" rel="alternate" hreflang="eu" title="Euskara" type="application/rss+xml"/>
+    <atom:link href="https://readcn.github.io/rss/hr.xml" rel="alternate" hreflang="hr" title="Hrvatski" type="application/rss+xml"/>
+    <atom:link href="https://readcn.github.io/rss/lb.xml" rel="alternate" hreflang="lb" title="Lëtzebuergesch" type="application/rss+xml"/>
+    <atom:link href="https://readcn.github.io/rss/si.xml" rel="alternate" hreflang="si" title="සිංහල" type="application/rss+xml"/>
+    <atom:link href="https://readcn.github.io/rss/az.xml" rel="alternate" hreflang="az" title="Azərbaycanca" type="application/rss+xml"/>
+    <atom:link href="https://readcn.github.io/rss/lt.xml" rel="alternate" hreflang="lt" title="Lietuvių Kalba" type="application/rss+xml"/>
+    <atom:link href="https://readcn.github.io/rss/or.xml" rel="alternate" hreflang="or" title="ଓଡ଼ିଆ" type="application/rss+xml"/>
+    <atom:link href="https://readcn.github.io/rss/sr.xml" rel="alternate" hreflang="sr" title="Српски Језик" type="application/rss+xml"/>
+    <atom:link href="https://readcn.github.io/rss/be.xml" rel="alternate" hreflang="be" title="Беларуская" type="application/rss+xml"/>
+    <atom:link href="https://readcn.github.io/rss/gl.xml" rel="alternate" hreflang="gl" title="Galego" type="application/rss+xml"/>
+    <atom:link href="https://readcn.github.io/rss/my.xml" rel="alternate" hreflang="my" title="မြန်မာစာ" type="application/rss+xml"/>
+    <atom:link href="https://readcn.github.io/rss/sd.xml" rel="alternate" hreflang="sd" title="سنڌي" type="application/rss+xml"/>
+    <atom:link href="https://readcn.github.io/rss/sl.xml" rel="alternate" hreflang="sl" title="Slovenščina" type="application/rss+xml"/>
+    <atom:link href="https://readcn.github.io/rss/as.xml" rel="alternate" hreflang="as" title="অসমীয়া" type="application/rss+xml"/>
+    <atom:link href="https://readcn.github.io/rss/et.xml" rel="alternate" hreflang="et" title="Eesti" type="application/rss+xml"/>
+    <atom:link href="https://readcn.github.io/rss/lv.xml" rel="alternate" hreflang="lv" title="Latviešu Valoda" type="application/rss+xml"/>
+    <atom:link href="https://readcn.github.io/rss/km.xml" rel="alternate" hreflang="km" title="ភាសាខ្មែរ" type="application/rss+xml"/>
+    <atom:link href="https://readcn.github.io/rss/ne.xml" rel="alternate" hreflang="ne" title="नेपाली" type="application/rss+xml"/>
+    <atom:link href="https://readcn.github.io/rss/hy.xml" rel="alternate" hreflang="hy" title="Հայերեն" type="application/rss+xml"/>
+    <atom:link href="https://readcn.github.io/rss/bs.xml" rel="alternate" hreflang="bs" title="Bosanski" type="application/rss+xml"/>
+    <atom:link href="https://readcn.github.io/rss/ka.xml" rel="alternate" hreflang="ka" title="ქართული" type="application/rss+xml"/>
+    <atom:link href="https://readcn.github.io/rss/is.xml" rel="alternate" hreflang="is" title="Íslenska" type="application/rss+xml"/>
+    <atom:link href="https://readcn.github.io/rss/lo.xml" rel="alternate" hreflang="lo" title="ພາສາລາວ" type="application/rss+xml"/>
+    <atom:link href="https://readcn.github.io/rss/mk.xml" rel="alternate" hreflang="mk" title="Македонски Јазик" type="application/rss+xml"/>
+    <atom:link href="https://readcn.github.io/rss/mt.xml" rel="alternate" hreflang="mt" title="Malti" type="application/rss+xml"/>
+    <atom:link href="https://readcn.github.io/rss/sq.xml" rel="alternate" hreflang="sq" title="Shqip" type="application/rss+xml"/>
+    <atom:link href="https://readcn.github.io/rss/fil.xml" rel="alternate" hreflang="fil" title="Wikang Filipino" type="application/rss+xml"/>
+    <atom:link href="https://readcn.github.io/rss/iw.xml" rel="alternate" hreflang="iw" title="עברית" type="application/rss+xml"/>
+    <atom:link href="https://readcn.github.io/rss/jv.xml" rel="alternate" hreflang="jv" title="Basa Jawa" type="application/rss+xml"/>
+    <atom:link href="https://readcn.github.io/rss/uz.xml" rel="alternate" hreflang="uz" title="O&apos;zbek" type="application/rss+xml"/>
+    <item>
+      <title>中國人怎麼看待民主？</title>
+      <link>https://readcn.github.io/2026/democracy</link>
+      <guid isPermaLink="false">https://readcn.github.io/2026/democracy#zh-TW</guid>
+      <pubDate>Sat, 24 Oct 2026 00:00:00 GMT</pubDate>
+      <dc:language>zh-TW</dc:language>
+      <description><![CDATA[<p>中國網路有個流行的梗：『民主之後，殺你全家』。</p><p>也許，有人覺得荒誕。但，這就是中國的政治現實。</p><p>當年法國大革命，高喊自由、平等、博愛。結果呢？是斷頭台，是路燈上的吊屍，是血流成河的恐怖統治。</p><p>十多年前，中國社群網路初興。狂熱的西式民主信徒，連博愛的過場都省了，直接奔向斷頭台。</p><p>在他們眼裡，選票不是治理工具，是宗教法器。誰敢質疑激進轉型會帶來動盪，誰就是奴才。辯論的終局，永遠是那句詛咒：民主之後，殺你全家。</p><p>普通人聽見這話，後背發涼。</p><p>因為在中國，藉崇高口號行屠殺之實，不是比喻，是血債。</p><p>年過花甲的人，聽出的是1966年的腔調。</p><p>很少外國人知道，文革爆發時的官方旗號，就叫大民主。踢開衙門，砸爛公檢法，眾人自由結社，自下而上奪權。</p><p>法度既毀，狂熱便直通獸性。</p><p>各派皆自稱壟斷真理，異見者盡是死敵。鄰裡互害，骨肉揭發。不過兩年，傳單變成真槍實彈，城市街頭架起機槍火砲當街對轟。十年浩劫，山河破碎。</p><p>把歷史帳簿再往前翻百年，墨跡更紅。</p><p>1836年，落第秀才洪秀全在廣州街頭接過基督教傳單。屢試不第後，他宣告自己是上帝次子、耶穌親弟，創立太平天國。</p><p>口號極度動聽：廢私產，均貧富，天下男女皆兄弟姊妹。西方傳教士喜極而泣，以為福音降臨東方。</p><p>結果，人間天國成了屠宰場。</p><p>不信教者，皆為閻羅妖。殺人有罪，殺妖卻是替天行道。江南富庶之地化為焦土，孤城久困，百姓易子而食。洪秀全縮進南京深宮，蓄妃八十八人，十餘年不出宮門；部下稍有差池便裹油布活活燒死，高層內訌便砍下兩萬自家人頭顱。</p><p>十四年聖戰，兩千萬人化為白骨。死亡人數超過當時英國總人口，超過半世紀後全球大戰的傷亡總和。</p><p>基督教傳單，變成兩千萬具屍體。<br>大民主口號，變成街頭火砲對轟。<br>西式選票狂熱，變成殺你全家的威脅。</p><p>看懂這三幕舊事，就能看懂中國人的潛意識算式：</p><p>民主 = 混亂 = 屠殺。</p><p>脫去秩序與法度的狂熱口號，落地就是大亂；而中國歷史上的大亂，終局永遠是屠殺。招牌雖換了西洋新漆，內裡熬的仍是人肉筵席。</p><p>況且，現代的教訓就在眼前。</p><p>蘇聯解體，寡頭鯨吞；伊拉克、利比亞引進選票箱，換來軍閥混戰與露天奴隸市場。西方政客慶祝完選民指尖的紫墨水便轉身離開，留給當地人無盡的汽車炸彈。</p><p>所以，中國人看政治，只看結果，不信神蹟。</p><p>十四億張嘴，每日消耗七十萬噸糧食。國家機器停擺半月，就是千萬人的飢荒。</p><p>中國人算的是實帳：<br>凌晨兩點，女生能不能獨自在街上吃燒烤？<br>萬里高鐵與電網，能不能準時運轉？<br>下水道堵了、東家欠薪、小吏推諉，撥通12345熱線，衙門能不能兩日內登門辦結？</p><p>比起每四年去勾選轉頭便翻臉不認人的政客，四十八小時內修好的路燈，才是看得見的公道。</p><p>中國人並非不求公平，不戀法治。</p><p>每日網路之上，痛斥執法越界、官僚傲慢、食安隱憂與血汗苛待的聲音從未斷絕。但國人要的，是守法度、聽民意、辦實事的善治，絕非把家國劈成兩半的選票內戰。</p><p>歷史最諷刺的迴力鏢，正砸向太平洋彼岸。</p><p>當年西方以為，網路會讓中國變成溫和的西式議事廳。如今演算法時代的社群媒體，卻把歐美變成了2011年最暴戾的中文罵街巷。</p><p>身分政治早已吞噬了社會共識。膚色、性別、信仰、黨派，道道戰壕將國民切割成勢不兩立的部落。昔日被奉為黏合劑的西式民主，如今成了製造撕裂的機器。政客無需解決問題，只需煽動仇恨；選票不再帶來團結，只負責製造敵人。</p><p>政敵不再是同胞，而是必欲除之的國賊。議會門前豎起絞刑架，街頭烈火熊熊，競選台上子彈橫飛。兩黨信徒都在高喊：欲救民主，必先踏平另半數國民。</p><p>這戲碼，中國人太熟了。</p><p>當民主淪為部落獵巫，當選票變成清算異己的戰書，所謂自由，不過是浩劫的序曲。通往地獄的大道，向來由最聖潔的辭藻鋪就；當狂徒們打著民主的旗號四處尋覓麻繩時，那繩套，遲早要落到每個人頸上。</p>]]></description>
+      <content:encoded><![CDATA[<p>中國網路有個流行的梗：『民主之後，殺你全家』。</p><p>也許，有人覺得荒誕。但，這就是中國的政治現實。</p><p>當年法國大革命，高喊自由、平等、博愛。結果呢？是斷頭台，是路燈上的吊屍，是血流成河的恐怖統治。</p><p>十多年前，中國社群網路初興。狂熱的西式民主信徒，連博愛的過場都省了，直接奔向斷頭台。</p><p>在他們眼裡，選票不是治理工具，是宗教法器。誰敢質疑激進轉型會帶來動盪，誰就是奴才。辯論的終局，永遠是那句詛咒：民主之後，殺你全家。</p><p>普通人聽見這話，後背發涼。</p><p>因為在中國，藉崇高口號行屠殺之實，不是比喻，是血債。</p><p>年過花甲的人，聽出的是1966年的腔調。</p><p>很少外國人知道，文革爆發時的官方旗號，就叫大民主。踢開衙門，砸爛公檢法，眾人自由結社，自下而上奪權。</p><p>法度既毀，狂熱便直通獸性。</p><p>各派皆自稱壟斷真理，異見者盡是死敵。鄰裡互害，骨肉揭發。不過兩年，傳單變成真槍實彈，城市街頭架起機槍火砲當街對轟。十年浩劫，山河破碎。</p><p>把歷史帳簿再往前翻百年，墨跡更紅。</p><p>1836年，落第秀才洪秀全在廣州街頭接過基督教傳單。屢試不第後，他宣告自己是上帝次子、耶穌親弟，創立太平天國。</p><p>口號極度動聽：廢私產，均貧富，天下男女皆兄弟姊妹。西方傳教士喜極而泣，以為福音降臨東方。</p><p>結果，人間天國成了屠宰場。</p><p>不信教者，皆為閻羅妖。殺人有罪，殺妖卻是替天行道。江南富庶之地化為焦土，孤城久困，百姓易子而食。洪秀全縮進南京深宮，蓄妃八十八人，十餘年不出宮門；部下稍有差池便裹油布活活燒死，高層內訌便砍下兩萬自家人頭顱。</p><p>十四年聖戰，兩千萬人化為白骨。死亡人數超過當時英國總人口，超過半世紀後全球大戰的傷亡總和。</p><p>基督教傳單，變成兩千萬具屍體。<br>大民主口號，變成街頭火砲對轟。<br>西式選票狂熱，變成殺你全家的威脅。</p><p>看懂這三幕舊事，就能看懂中國人的潛意識算式：</p><p>民主 = 混亂 = 屠殺。</p><p>脫去秩序與法度的狂熱口號，落地就是大亂；而中國歷史上的大亂，終局永遠是屠殺。招牌雖換了西洋新漆，內裡熬的仍是人肉筵席。</p><p>況且，現代的教訓就在眼前。</p><p>蘇聯解體，寡頭鯨吞；伊拉克、利比亞引進選票箱，換來軍閥混戰與露天奴隸市場。西方政客慶祝完選民指尖的紫墨水便轉身離開，留給當地人無盡的汽車炸彈。</p><p>所以，中國人看政治，只看結果，不信神蹟。</p><p>十四億張嘴，每日消耗七十萬噸糧食。國家機器停擺半月，就是千萬人的飢荒。</p><p>中國人算的是實帳：<br>凌晨兩點，女生能不能獨自在街上吃燒烤？<br>萬里高鐵與電網，能不能準時運轉？<br>下水道堵了、東家欠薪、小吏推諉，撥通12345熱線，衙門能不能兩日內登門辦結？</p><p>比起每四年去勾選轉頭便翻臉不認人的政客，四十八小時內修好的路燈，才是看得見的公道。</p><p>中國人並非不求公平，不戀法治。</p><p>每日網路之上，痛斥執法越界、官僚傲慢、食安隱憂與血汗苛待的聲音從未斷絕。但國人要的，是守法度、聽民意、辦實事的善治，絕非把家國劈成兩半的選票內戰。</p><p>歷史最諷刺的迴力鏢，正砸向太平洋彼岸。</p><p>當年西方以為，網路會讓中國變成溫和的西式議事廳。如今演算法時代的社群媒體，卻把歐美變成了2011年最暴戾的中文罵街巷。</p><p>身分政治早已吞噬了社會共識。膚色、性別、信仰、黨派，道道戰壕將國民切割成勢不兩立的部落。昔日被奉為黏合劑的西式民主，如今成了製造撕裂的機器。政客無需解決問題，只需煽動仇恨；選票不再帶來團結，只負責製造敵人。</p><p>政敵不再是同胞，而是必欲除之的國賊。議會門前豎起絞刑架，街頭烈火熊熊，競選台上子彈橫飛。兩黨信徒都在高喊：欲救民主，必先踏平另半數國民。</p><p>這戲碼，中國人太熟了。</p><p>當民主淪為部落獵巫，當選票變成清算異己的戰書，所謂自由，不過是浩劫的序曲。通往地獄的大道，向來由最聖潔的辭藻鋪就；當狂徒們打著民主的旗號四處尋覓麻繩時，那繩套，遲早要落到每個人頸上。</p>]]></content:encoded>
+    </item>
+  </channel>
+</rss>

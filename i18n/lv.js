@@ -1,0 +1,1 @@
+export default [['atgriezties'],['Noklikšķiniet šeit, lai lasītu'],['slēgšana'],['Lūdzu, atlasiet savu valodu','valodu'],['Lūk, saproti Ķīnu']]

@@ -1,0 +1,5 @@
+import { css } from "./js/dom.js";
+import "./svg/7kMfmBhmZBaItNrneZZgAQ.js";
+
+// src/webc/Toast/_.styl
+css(".Toast{backdrop-filter:blur(12px);color:#fff;text-align:center;text-overflow:ellipsis;z-index:99999;background:linear-gradient(90deg,#000000e6 0,#0f172acc 100%);border:1px solid #0000000f;border-radius:14px;align-items:center;max-width:544px;max-height:544px;padding:7px 14px;font-size:14px;font-weight:700;line-height:1.2;display:flex;position:fixed;top:14px;right:14px;overflow:visible;box-shadow:inset 0 0 3px #00000080;&.animated{animation-duration:.5s;animation-fill-mode:both}&.fadeInR{animation-name:fadeInR}&.fadeOutR{animation-name:fadeOutR}&>.x{cursor:pointer;filter:invert()opacity(.5);user-select:none;background:var(--7kMfmBhmZBaItNrneZZgAQ) 0 0/cover no-repeat;flex-shrink:0;width:18px;height:18px;margin:0 -4px 0 8px;transition:filter .2s;display:block;&:hover{filter:invert()opacity(.85)}}&.ERR{background:linear-gradient(135deg,#ff0015f0 0,#ff0026fe 100%);box-shadow:inset 0 0 3px #ff000080;&>.x{filter:invert()opacity(.7);&:hover{filter:invert()opacity()}}}&>b{text-overflow:ellipsis;max-width:544px;max-height:544px;overflow:hidden}}");

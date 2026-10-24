@@ -1,0 +1,1 @@
+export default [['ritorn'],['Ikklikkja hawn biex taqra'],['għeluq'],['Jekk jogħġbok agħżel il-lingwa tiegħek','lingwa'],['Hawnhekk, tifhem iċ-Ċina']]

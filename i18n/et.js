@@ -1,0 +1,1 @@
+export default [['tagasi'],['Lugemiseks klõpsake siin'],['sulgemine'],['Palun valige oma keel','keel'],['Siin, mõista Hiinat']]

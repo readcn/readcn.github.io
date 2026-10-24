@@ -1,0 +1,1 @@
+export default [['itzuli'],['Egin klik hemen irakurtzeko'],['itxiera'],['Mesedez, hautatu zure hizkuntza','hizkuntza'],['Hemen, ulertu Txina']]

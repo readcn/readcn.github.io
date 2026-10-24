@@ -1,0 +1,1 @@
+export default [['qaytish'],['Oʻqish uchun shu yerni bosing'],['yopilish'],['Tilingizni tanlang','til'],['Mana, Xitoyni tushuning']]

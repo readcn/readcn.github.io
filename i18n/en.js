@@ -1,0 +1,1 @@
+export default [['Return'],['Click here to read'],['Closure'],['Please select your language','Language'],['Here, understand China']]

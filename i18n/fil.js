@@ -1,0 +1,1 @@
+export default [['bumalik'],['Mag-click dito upang basahin'],['pagsasara'],['Mangyaring piliin ang iyong wika','wika'],['Dito, intindihin ang China']]

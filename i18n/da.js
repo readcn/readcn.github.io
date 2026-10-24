@@ -1,0 +1,1 @@
+export default [['returnere'],['Klik her for at læse'],['lukning'],['Vælg venligst dit sprog','sprog'],['Her, forstå Kina']]

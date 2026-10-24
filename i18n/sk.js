@@ -1,0 +1,1 @@
+export default [['vrátiť'],['Pre čítanie kliknite sem'],['uzavretie'],['Vyberte jazyk','jazyk'],['Tu pochop Čínu']]

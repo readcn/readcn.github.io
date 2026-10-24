@@ -1,0 +1,1 @@
+export default [['bali'],['Klik kene kanggo maca'],['penutupan'],['Mangga pilih basa sampeyan','basa'],['Kene, ngerti Cina']]

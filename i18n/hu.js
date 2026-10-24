@@ -1,0 +1,1 @@
+export default [['visszatérés'],['Kattintson ide az olvasáshoz'],['bezárás'],['Kérjük, válassza ki a nyelvet','nyelv'],['Tessék megérteni Kínát']]

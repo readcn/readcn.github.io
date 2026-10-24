@@ -1,0 +1,1 @@
+export default [['kurudi'],['Bofya hapa kusoma'],['kufungwa'],['Tafadhali chagua lugha yako','lugha'],['Hapa, kuelewa China']]

@@ -1,0 +1,1 @@
+export default [['kembali'],['Klik di sini untuk membaca'],['penutupan'],['Sila pilih bahasa anda','bahasa'],['Di sini, fahami China']]

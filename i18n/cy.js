@@ -1,0 +1,1 @@
+export default [['dychwelyd'],['Cliciwch yma i ddarllen'],['gau'],['Dewiswch eich iaith','iaith'],['Yma, deall Tsieina']]
